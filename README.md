@@ -14,7 +14,7 @@ Passionate about digital and analog VLSI design, FPGA implementations, and signa
 
 ---
 
-## 🚀 Key Projects[cite: 1]
+## 🚀 Key Projects
 
 * **FPGA Implementation of 7-Segment Display using Reversible Logic Gates**
   * Designed a novel reversible BCD to 7-segment display decoder on a Xilinx Artix FPGA optimized for low power and quantum computing applications.
